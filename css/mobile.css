@@ -1,0 +1,76 @@
+
+#navbar h1 {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul {
+  float: none;
+  padding: 10px;
+}
+
+#navbar ul li {
+  display: block;
+  text-align: center;
+  border-bottom: 0.3px solid #e5e5e5;
+  
+}
+
+ .current {
+  background-color: #474747;
+  color: #FF9872;
+  border-left: 2px solid #FF9872;
+} 
+
+
+#home-info #info-img {
+  display: none;
+  float: none;
+}
+
+#home-info #info-content {
+  display: block;
+  width: 100%;
+  
+}
+
+#home-info #info-content #btn-read-more {
+  margin-left: 3.5%;
+}
+
+#features .box {
+  float: none;
+  width: 100%;
+}
+
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+.l-heading {
+  text-align: center;
+  font-size: 2rem;
+}
+
+#about-info .info-right img {
+  padding-top: 2rem;
+}
+
+#testemonial {
+  height: 120%;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+#testemonial-1, #testemonial-2 {
+  padding-bottom: 1rem;
+}
+
+#contact-features .box {
+  float: none;
+  width: 100%;
+  border-bottom: 1px dotted #fff;
+}
+
